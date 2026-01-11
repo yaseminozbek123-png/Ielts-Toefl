@@ -1,0 +1,7 @@
+{
+  "name": "VocabMaster & ImageAlchemist",
+  "description": "A dual-purpose app featuring a TOEFL/IELTS vocabulary quiz game and a Gemini-powered image editing suite.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
